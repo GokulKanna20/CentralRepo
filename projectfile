@@ -1,2 +1,8 @@
 #Python code
 #Write a program to swap two numbers
+
+x=1
+y=2
+print(f'x is {x} and y is {y} before swapping')
+x,y=y,x
+print(f'x is {x} and y is {y} after swapping')
