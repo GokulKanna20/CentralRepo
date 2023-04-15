@@ -6,3 +6,5 @@ y=2
 print(f'x is {x} and y is {y} before swapping')
 x,y=y,x
 print(f'x is {x} and y is {y} after swapping')
+
+#Write a program that asks the user to enter a positive number and then prints out the square root of that number to 2 decimal places.
